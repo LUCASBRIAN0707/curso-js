@@ -1,5 +1,7 @@
  Lucas Brian — Estudos de JavaScript
-
+ 
+Este repositório contém exercícios feitos durante meu estudo de JavaScript
+seguindo as aulas do Curso em Vídeo.
 Bem-vindo ao meu repositório de estudos de JavaScript.
 Aqui estou registrando minha evolução na programação, com aulas, exercícios e pequenos projetos desenvolvidos durante meu aprendizado.
 
